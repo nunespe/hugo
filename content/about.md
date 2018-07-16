@@ -4,6 +4,7 @@ disableComments = true
 featureimage = "img/sample_feature_img_3.png"
 title = "About"
 [menu.nav]
+parent = "A"
 weight = 1
 
 +++

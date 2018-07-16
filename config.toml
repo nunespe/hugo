@@ -6,7 +6,7 @@ paginate = 10
 theme = "hugo-type-theme"
 title = "Type theme"
 [params]
-author = "Eu mesmo"
+author = "Your name"
 avatar = "img/avatar.png"
 copyright = "Released under the MIT license<br>Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)"
 description = "Add a description of your website"
