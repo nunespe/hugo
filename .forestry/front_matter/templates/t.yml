@@ -11,3 +11,5 @@ fields:
   label: title
   name: title
   description: title
+pages:
+- content/post/title-goes-here.md
