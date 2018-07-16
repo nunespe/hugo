@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-domain.com/"
+baseurl = "https://romantic-feynman-d9b44e.netlify.com/"
 languageCode = "en-us"
 title = "Type theme"
 theme = "Sites/concurso.com/themes/hugo-type-theme"
