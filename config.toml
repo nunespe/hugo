@@ -1,7 +1,7 @@
 baseurl = "https://romantic-feynman-d9b44e.netlify.com/"
 languageCode = "en-us"
 title = "Type theme"
-theme = "Sites/concurso.com/themes/hugo-type-theme"
+theme = "/themes/hugo-type-theme"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "spf13"
 # Add your tracking code to enable Google Analytics
