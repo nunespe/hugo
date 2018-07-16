@@ -4,3 +4,16 @@ draft = true
 title = "Title goes here"
 
 +++
+# a new post
+
+olá esse post é legal
+
+## está no meu hugo site que eu criei
+
+**_é só um teste isso tudo aqui._**
+
+[obrigado](obrigado.com) por ler.
+
+Assinado,
+
+**_Eu Mesmo._**
