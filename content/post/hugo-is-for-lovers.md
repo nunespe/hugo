@@ -2,8 +2,12 @@
 date = "2015-08-03T13:39:46+02:00"
 tags = ["Hugo"]
 title = "Hugo is for lovers"
-+++
+[menu.nav]
+name = "aa"
+parent = "About"
+weight = 1
 
++++
 ## Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
