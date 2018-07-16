@@ -1,11 +1,13 @@
 +++
 date = "2015-07-23"
-title = "A"
-featureimage = "img/sample_feature_img_3.png"
-menu = "nav"
 disableComments = true
-+++
+featureimage = "img/sample_feature_img_3.png"
+title = "A"
+[menu.nav]
+parent = "About"
+weight = 1
 
++++
 ### Aqui esta algum conteudo.
 Mais conteudo aqui.
 
